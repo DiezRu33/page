@@ -1,0 +1,15 @@
+body{
+	background: #18e;
+	color: #000;
+	font-width: bolder;
+	font-family: Sans Seriff;
+	border: 1px dashed #fff;
+	margin: 10px 0 5px 0;
+}
+
+body:hover{
+	transition: 1s all;
+	border:3px solid #323;
+	background: #499
+	}
+ 
